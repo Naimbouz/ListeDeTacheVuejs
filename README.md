@@ -1,4 +1,4 @@
-# ListeDeTacheVuejs
+# ListeDesTachesVuejs
 
 Cette application est une simple liste de tâches développée en utilisant Vue.js. Elle vous permet d'ajouter, modifier et supprimer des tâches a travers l'api rest.
 
